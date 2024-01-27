@@ -1,5 +1,3 @@
-# Taiwenese-Bankruptcy-Prediction
-
 # Taiwanese Bankruptcy Statistics Analysis
 
 ## Overview
