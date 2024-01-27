@@ -52,7 +52,8 @@ Welcome to the Taiwanese Bankruptcy Statistics Analysis project! This repository
 ├── requirements.txt # Python dependencies
 └── .gitignore # Git ignore file
 
-
+# Flowchart
+![image](https://github.com/Ali-Hasan-Khan28/Taiwenese-Bankruptcy-Prediction/assets/101451471/4feec5f6-e944-4b9d-88c3-cf1d53a57a04)
 
 ## Usage
 
