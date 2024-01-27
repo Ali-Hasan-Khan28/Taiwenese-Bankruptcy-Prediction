@@ -4,6 +4,10 @@
 
 Welcome to the Taiwanese Bankruptcy Statistics Analysis project! This repository contains the code and documentation for a comprehensive exploration of various methodologies and techniques for analyzing complex financial datasets. The primary focus is on data preprocessing, exploratory data analysis (EDA), classification modeling, addressing class imbalance, model evaluation, predictive analytics, and a comprehensive analysis of clustering techniques.
 
+# Dataset
+![image](https://github.com/Ali-Hasan-Khan28/Taiwenese-Bankruptcy-Prediction/assets/101451471/a02200bd-5dc7-4430-b7e9-66e58bf06b3e)
+
+
 ## Key Features
 
 - **Robust Data Preprocessing:** The dataset undergoes thorough preprocessing to refine and prepare it for analysis.
